@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - video_compressor (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - video_compressor (from `.symlinks/plugins/video_compressor/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  video_compressor:
+    :path: ".symlinks/plugins/video_compressor/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  video_compressor: 87ae5bccf8430540b9fa28e9863200cfb48522e0
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
